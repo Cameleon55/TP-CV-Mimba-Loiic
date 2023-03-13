@@ -1,0 +1,12 @@
+.droit{
+    float: right;
+    width: 59%;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(166, 189, 189);
+}
+.gauche{
+
+    float: left;
+    width: 40%;
+    border: 2px solid rgb(156, 120, 120);
+}
